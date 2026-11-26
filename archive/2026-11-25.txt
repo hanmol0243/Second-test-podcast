@@ -1,0 +1,67 @@
+Weather.
+
+Tonight is a clear seventy-two degrees, Thursday reaches seventy-nine, Friday seventy-two, and Saturday dawn dips to fifty-five. For Boca Raton that is a cold snap, so you will dig out a jacket for fifty-five degrees and describe it as brutal to everyone you meet.
+
+Here are the biggest news stories and how they connect. An energy shock, a strong economy and a tariff wave are all pushing the same way. The International Energy Agency calls the Hormuz crisis the largest energy supply shock in history, and US consumer prices are up three point eight percent on the year, the highest since May. Third-quarter growth was revised up to four point three percent, so the Federal Reserve cannot treat this as a pure supply shock, and a December hike is widely expected. Today the Nasdaq was down almost four percent in early trading on doubts about the AI boom. My reading: a higher discount rate is repricing long-dated AI profits, just as new tariffs add another cost to pass on.
+
+Politics.
+
+United States. Trump personally pressed Nvidia's board to reinstate chief executive Jensen Huang despite allegations about his links to an alleged Chinese spy; a Republican lawmaker wants to know what the FBI and CIA knew before questioning Huang. Trump also wants a Ukraine deal by early January, before Democrats, who won the midterms this month, take control of Congress. Kilmar Abrego Garcia, wrongly deported to El Salvador, has arrived in Spain, ending twenty months of litigation.
+
+UK. Prime Minister Burnham told MPs that EU students will pay higher tuition fees than UK students under a part of the new EU deal that is still being finalised.
+
+Europe. Spain votes on Sunday in a snap election, called after Sanchez's housing package failed in parliament. The People's Party leads with thirty-one percent against twenty-nine for the Socialists, and polling points to a right-wing majority.
+
+Conflict and world affairs.
+
+Iran. The war has settled into stalemate, but the US has told its citizens to leave Iran and warned that hostilities could escalate fast. In Yemen, the Houthis claimed strikes on the Saudi Red Sea ports of Jeddah and Jazan, and explosions rocked Riyadh, in what they call retaliation for Saudi-led air strikes.
+
+Ukraine. Zelensky says Washington wants a peace deal by January; Trump says he is under no timeline. Germany's Merz warned that Russia wants more than Ukraine. Poland has asked NATO to consider shooting down Russian missiles over Ukraine that are heading for alliance territory, Bloomberg reports. Meduza and Mediazona estimate at least seven hundred thousand Russian soldiers have died; the Kremlin dismisses the figure.
+
+Israel. Judges in Netanyahu's corruption trial recommended that prosecutors drop one of three bribery cases, a boost as he fights for political survival.
+
+Bangladesh. Garment workers won a thirty-six percent minimum wage rise after weeks of protests that cost hundreds of millions of dollars in lost business.
+
+South Africa. A court set aside the panel report that found President Ramaphosa had a case to answer over the Phala Phala theft, though appeals are likely.
+
+A fuel tanker fire in Cairo killed at least thirty-one people.
+
+Economy and markets.
+
+Federal Reserve. Third-quarter growth was revised up to four point three percent annualised, from three point four. October consumer prices rose three point eight percent on the year, on soaring energy costs. A December rate rise is widely expected, so markets already treat it as the base case.
+
+The mechanism is the policy rate, which the Fed lifts to raise borrowing costs and cool demand. The intended effect is to stop an energy shock hardening into inflation expectations. A Taylor rule, which sets rates from the inflation gap and the output gap, points upward when both are positive. The risk is that energy is a supply shock, which central banks usually look through, and a hike on top of lost real income could tip growth over. Economists disagree: hawks say growth above four percent shows demand, not just oil, is running hot; doves say a hike taxes households already paying more for fuel.
+
+The read-through is tighter financial conditions everywhere. My inference: the dollar is supported, and long-duration assets pay first. That is the Nasdaq story. Higher rates cut the present value of profits that arrive late, which is exactly how the AI trade is valued, so the sell-off is part repricing and part doubt, and today's data cannot separate them.
+
+Tariffs. The US trade representative proposed new tariffs on fourteen partners under Section three hundred and one of the Trade Act, after an overcapacity investigation. Rates are fifteen percent for the EU, Taiwan and South Korea, eighteen for most others, twenty-five for India and thirty-five for Vietnam. China faces twenty percent on top of existing duties, about forty in total. They could start early next year, and the US-China trade truce expires in January.
+
+Business.
+
+Poundland has collapsed into administration, a year after an American owner bought it for one pound. More than ten thousand jobs are at risk and the chain is expected to be broken up.
+
+Moody's said Huang's reinstatement eases uncertainty at Nvidia and left its ratings unchanged.
+
+Deals and private equity.
+
+Sanofi will buy Insmed for forty-one billion dollars, to own its bronchiectasis drug Brinsupri. CrowdStrike will buy Zscaler for forty-three point nine billion dollars, billed as the largest cybersecurity deal on record. Hellman and Friedman raised sixteen billion dollars for its ninth fund, according to an SEC filing.
+
+Science and technology.
+
+Europe's Hera spacecraft sent the first close-up images of the crater NASA's DART probe punched into an asteroid, and scientists say the debris field is a bigger mess than expected. China launched Shenzhou-twenty-four with the first foreign astronaut to reach its Tiangong station, a Pakistani, as it opens its space programme to partners. The FCC authorised SpaceX to deploy up to one million satellites carrying AI chips, roughly fifty times today's number in orbit.
+
+Energy, climate and infrastructure.
+
+UK household energy bills rise twenty-six percent from January, from one thousand seven hundred twenty-three pounds to two thousand one hundred sixty-six pounds for a typical home. The COP thirty-one climate summit in Antalya ended when a coalition of nations rejected the proposed pact for failing to mention fossil fuels.
+
+Health, law and society.
+
+A US jury convicted Huawei of conspiracy to steal trade secrets from T-Mobile and Cisco, plus fraud and money laundering. A federal court blocked Trump's new birthright citizenship order. In Iowa, the Army detonated a lead azide stockpile; the EPA reported zero airborne lead, though testing continues.
+
+Culture and sport.
+
+Manchester United drew two-all at Sporting in the Champions League. Bruno Fernandes scored both goals, and Pochettino is still waiting for his first win. Macy's postponed its hundredth Thanksgiving parade to Saturday because of a storm.
+
+Long reads.
+
+Rest of World reports that AI is turning skilled work into gig work: one platform offers American cardiologists up to one hundred eighty dollars an hour to review AI output, but Tagalog speakers in the Philippines seven dollars fifty. The Economist's Intelligence podcast asks how the Iran stalemate might break, and how Gulf states are thinking about it.
