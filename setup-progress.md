@@ -3,7 +3,7 @@
 Claude ticks each step as it is finished (see ONBOARDING.md). If any box
 is empty, setup is not complete: resume at the first empty box.
 
-- [ ] 1. Welcome; permission to save and publish; podcast app; saving and the podcast address both checked
+- [x] 1. Welcome; permission to save and publish; podcast app; saving and the podcast address both checked
 - [ ] 2. The ten topics
 - [ ] 3. Watchlist
 - [ ] 4. Sources, tested through the news build
@@ -15,6 +15,6 @@ is empty, setup is not complete: resume at the first empty box.
 
 ## Notes
 
-Podcast app:
-Podcast address (capitals kept):
+Podcast app: Apple Podcasts
+Podcast address (capitals kept): https://hanmol0243.github.io/Second-test-podcast/feed.xml
 Scheduled task ids:
