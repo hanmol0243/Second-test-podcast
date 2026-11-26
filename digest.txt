@@ -1,7 +1,7 @@
 ======================================================================
-NEWS DIGEST for Thursday 26 November 2026  [full digest]
-Built 02:02 UTC
-788 unique stories from 95 feeds (315 in full, 473 headline-only)
+NEWS DIGEST for Wednesday 25 November 2026  [full digest]
+Built 02:11 UTC
+788 unique stories from 95 feeds (314 in full, 474 headline-only)
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -281,7 +281,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - The Russian army’s secret death toll – podcast (Guardian Ukraine)
   - Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orbán (Guardian Ukraine)
 
---- North America (43) ---
+--- North America (44) ---
 
 * Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.
   NYT US | 26 Nov 01:53 UTC
@@ -343,7 +343,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The pageant’s organizers said Costa Rica would host next year, contradicting a rival camp that chose Vietnam as the venue. They are locked in a bitter fight for control of Miss Universe.
   https://www.nytimes.com/2026/11/25/us/miss-universe-winner-puerto-rico.html
 
-  ALSO IN NORTH AMERICA (31), headline only:
+  ALSO IN NORTH AMERICA (32), headline only:
   - US Army says controlled blast of explosives in Iowa was 'huge success' (BBC US Canada)
   - Macy's postpones Thanksgiving parade due to weather (BBC US Canada)
   - Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates (NYT US)
@@ -372,6 +372,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Here’s how the Army plans to mitigate the blast’s effects. (NYT US)
   - Shelter the Livestock, Farmers Were Told. But Where Do You Hide a Herd? (NYT US)
   - The Army’s plan relies on a complex series of steps and roughly 3,000 pounds of C4. (NYT US)
+  - An explosion is coming to Iowa, and residents can’t do a thing about it. (NYT US)
   - Fuel Leak at Power Plant Near Honolulu Angers Local Officials (NYT US)
   - Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government (NYT US)
   - She spent decades as an FBI agent and this is the case she could not let go (BBC US Canada)
@@ -451,6 +452,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Middle East (42) ---
 
+* Loud explosions rock Riyadh as Houthis attack Saudi ports
+  Middle East Eye | 26 Nov 02:04 UTC
+  Loud explosions rock Riyadh as Houthis attack Saudi ports Fresh explosions rocked Riyadh on Wednesday as Yemen's Houthis claimed attacks on Saudi Arabia’s Red Sea ports of Jeddah and Jazan, as the kingdom’s deterrence and defensive capabilities continue to be challenged. The Houthis said that both strikes on the ports “resulted in damage”...
+  https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosions-rock-riyadh-houthis-attack-saudi-ports
+
 * Photos: Storms and an El Nino-charged king tide batter California’s coast
   Al Jazeera global | 26 Nov 01:40 UTC
   Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.
@@ -491,11 +497,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Israel has turned Gaza into a 'toxic wasteland' A new report, “Environmental War Crimes”, by Oxfam and the Conflict and Environment Observatory finds that Israel’s genocide on the Gaza Strip has turned it into a “toxic wasteland.” Bushra Khalidi, the Humanitarian Policy and Advocacy Lead at Oxfam, joins MEE LIVE to discuss the findings an...
   https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-turned-gaza-toxic-wasteland
 
-* Zambia bans protest against push to remove presidential term limits
-  Al Jazeera global | 26 Nov 00:22 UTC
-  Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.
-  https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss
-
 * Man United denied at Sporting as referee overshadows Fernandes double
   Al Jazeera global | 25 Nov 22:15 UTC [also carried by: Channel News Asia]
   Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.
@@ -512,6 +513,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.middleeasteye.net/live-blog/live-blog-update/uk-moving-military-planes-hangars-amid-drone-threat-reports
 
   ALSO IN MIDDLE EAST (30), headline only:
+  - Zambia bans protest against push to remove presidential term limits (Al Jazeera global)
   - A meeting with Democrats over healthcare? Trump says he’s open to it (Al Jazeera global)
   - Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh (Al Jazeera global)
   - UKMTO reports explosion near tanker west of Dubai (Middle East Eye)
@@ -521,7 +523,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Malen and Roma deny injury-hit PSG in Champions League draw (Al Jazeera global)
   - Explosion heard in Riyadh after 'hostile aerial threat' warning, report says (Middle East Eye)
   - US ambassador to Israel undercuts Trump's announcement that aid to Israel will end this year (Middle East Eye)
-  - Loud explosions rock Riyadh as Houthis attack Saudi ports (Middle East Eye)
   - Hezbollah chief demands release of five detained members (Middle East Eye)
   - Winter rains threaten 1,000 Gaza shelter sites, councils warn (Al Jazeera global)
   - US Education Department probes Virginia schools after sexual abuse scandal (Al Jazeera global)
@@ -543,12 +544,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack (France 24 ME)
   - Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza (France 24 ME)
 
---- Africa (93) ---
+--- Africa (95) ---
 
-* Saudis down missiles targeting capital after Yemen port strikes
-  Al-Monitor | 25 Nov 22:30 UTC
-  Explosions echoed above Riyadh as Saudi armed forces reported on Thursday downing missiles and drones launched by Yemen's Houthis, just a day after the Iran-backed group claimed strikes on the capital. Months into Saudi Arabia's renewed war with the Houthis, the kingdom has struggled to shield even its most sensitive infrastructure from a...
-  https://www.al-monitor.com/originals/2026/11/saudis-down-missiles-targeting-capital-after-yemen-port-strikes
+* As foreign troops withdraw from Somalia, could al-Shabab take over?
+  BBC Africa | 26 Nov 02:06 UTC
+  Somalia relies heavily on foreign funding and military support for its very survival.
+  https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss
 
 * Israeli judges recommend prosecutors drop one bribery case against Netanyahu
   Al-Monitor | 25 Nov 20:46 UTC [also carried by: Al Jazeera global]
@@ -591,7 +592,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.dailymaverick.co.za/article/2026-11-25-ramaphosa-succeeds-in-setting-aside-impeachment-report/
 
 * Zimbabwe: I'm Above the Programme - Says Mugabe's Son, Soon After Court Orders His Arrest
-  AllAfrica | 25 Nov 08:32 UTC [also carried by: Africanews, BBC Africa]
+  AllAfrica | 25 Nov 08:32 UTC [also carried by: Africanews]
   [New Zimbabwe] ONE of late President Robert Mugabe's troublesome sons, Bellarmine Chatunga, has obnoxiously declared himself and his family above Zimbabwe's judicial processes, hours after a Harare magistrate issued a warrant for his arrest.
   https://allafrica.com/stories/202611250219.html
 
@@ -605,7 +606,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Nov 25 (Reuters) - Yemen’s Houthi armed forces said on Wednesday the Saudi Arabian port of Jeddah and all other Saudi ports on the Red Sea coast would be targeted if Saudi Arabia carried out threats to attack the Yemeni port of Hodeidah.
   https://www.dailymaverick.co.za/article/2026-11-25-yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/
 
-  ALSO IN AFRICA (81), headline only:
+  ALSO IN AFRICA (83), headline only:
+  - Saudis down missiles targeting capital after Yemen port strikes (Al-Monitor)
   - Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize (Al-Monitor)
   - XENOBAROMETER: Home Affairs urged to halt Beitbridge refugee office plans amid rights concerns (Daily Maverick)
   - Permanent capture protest: Safcei quits Baboon Advisory Group (Daily Maverick)
@@ -631,6 +633,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Canary Islands record nearly 2,000 migrant arrivals in a single day (Africanews)
   - 'Justice for sport' - reaction to Afcon final verdict (BBC Africa)
   - Moroccan festival celebrates African and Middle Eastern musicians (Africanews)
+  - Africa: AfDB and Ebrd Set Out a Shared Vision for a Stronger Partnership Across Africa (AllAfrica)
   - Watch – Jensen Huang’s Return Puts NVIDIA Back in Focus (Daily Maverick)
   - Gambia: Almameh Gibba Promises to Address Killings & Conflict Along Foni Borderline (AllAfrica)
   - Gambia: Touray Vows Constitutional Reform, Accountability At Simoto Tuba Rally (AllAfrica)
@@ -692,7 +695,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: ASIA AND PACIFIC
 ######################################################################
 
---- South Asia (22) ---
+--- South Asia (19) ---
 
 * PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension - Dawn
   Dawn | 25 Nov 20:02 UTC
@@ -754,7 +757,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   £190m corruption case: Imran, Bushra's counsel says transaction caused no loss to exchequer Dawn
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TcmQwNWZwUlpCUE9sZElRaEF1TFhVM2d0bEI0X2xfQXdtQnhkeF9DNHlTNzZmZTlJUElMNEt0Nm1yWnM4eVdOcg?oc=5
 
-  ALSO IN SOUTH ASIA (10), headline only:
+  ALSO IN SOUTH ASIA (7), headline only:
   - 'Let’s not blow it out of proportion': De Villiers urges cricket to move on from 'Sandpapergate' - Dawn (Dawn)
   - China investigates Politburo member and Shanghai party chief Chen Jining (NPR Asia)
   - Maldives national airline to start direct flights to Pakistan soon, meeting told - Dawn (Dawn)
@@ -762,11 +765,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Pakistan, China agree on government-to-government arrangements for fuel storage, terminal facilities - Dawn (Dawn)
   - Eisenkot clinches first coalition agreement in bid to form Israel's government - Dawn (Dawn)
   - In an Egypt village, generations of Palestinians denied a normal life - Dawn (Dawn)
-  - Achakzai proposes national govt, comprehensive reforms - Dawn (Dawn)
-  - Cashless divide - Dawn (Dawn)
-  - Raising our sons - Dawn (Dawn)
 
 --- East Asia (88) ---
+
+* Mizuho extends global banking push to India with Avendus deal
+  Japan Times | 26 Nov 02:06 UTC
+  Avendus' autonomy was key to the deal valued at as much as $510 million, allowing it to maintain its own brand and identity.
+  https://www.japantimes.co.jp/business/2026/11/26/companies/mizuho-avendus-deal-banking-india/
+
+* Chinese restaurant chain slammed for forcing female staff, even cleaners, to wear make-up
+  SCMP | 26 Nov 02:05 UTC
+  A popular restaurant chain in China is under fire for requiring female staff, including cleaners and kitchen workers, to wear make-up. Founded in Shanghai, Japanese-style hotpot buffet chain Niu New Sukiyaki went viral a few months ago after introducing “introvert-friendly” booths for solo diners. Its individual hotpot meals, averaging 15...
+  https://www.scmp.com/news/people-culture/trending-china/article/3375830/chinese-restaurant-chain-slammed-forcing-female-staff-even-cleaners-wear-make
 
 * Hong Kong’s Pakistani community mourns philanthropist killed in Tsim Sha Tsui crash
   SCMP | 26 Nov 02:00 UTC
@@ -782,16 +792,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   SCMP | 26 Nov 01:56 UTC [also carried by: BBC US Canada, Channel News Asia]
   The long-running legal battles between Angelina Jolie and Brad Pitt have come to an end a decade after the A-list celebrity couple split, with the actors settling a dispute over the ownership of a French winery. The actors said in a joint statement Wednesday that they had reached a settlement of the lawsuit, which transcended business mat...
   https://www.scmp.com/news/world/united-states-canada/article/3375827/jolie-and-pitt-settle-french-winery-fight-decade-after-bitter-split
-
-* Springboks want to win Nations Championship for banned coach Rassie Erasmus
-  Japan Times | 26 Nov 01:41 UTC
-  Erasmus is currently serving a six-game suspension for suggesting some of the officiating in the Springboks' 21-19 pool-play loss to France earlier this month amounted to "match-fixing."
-  https://www.japantimes.co.jp/sports/2026/11/26/more-sports/south-africa-nations-championship/
-
-* Hegseth may visit Japan on Dec. 8 for defense minister meeting
-  Japan Times | 26 Nov 01:39 UTC
-  The pair are expected to discuss Japan's host-nation financial support for U.S. forces and a possible increase in Japan's defense spending.
-  https://www.japantimes.co.jp/news/2026/11/26/japan/hegseth-possible-japan-visit/
 
 * Macy’s Thanksgiving Day Parade postponed, as New York braces for huge storm
   SCMP | 25 Nov 23:34 UTC [also carried by: Al Jazeera global]
@@ -829,7 +829,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.scmp.com/week-asia/politics/article/3375772/nepal-hedges-between-two-asian-giants-ties-india-thaw
 
   ALSO IN EAST ASIA (76), headline only:
+  - Springboks want to win Nations Championship for banned coach Rassie Erasmus (Japan Times)
+  - Hegseth may visit Japan on Dec. 8 for defense minister meeting (Japan Times)
   - Malaysia says arrested air force pilot main conduit in interstate drug ring (SCMP)
+  - JR East working on expanding Suica ecosystem (Japan Times)
   - Why Japan’s Takaichi cannot afford to lose another minister (SCMP)
   - OPEC blames EU for COP31 collapse (Japan Times)
   - JAXA unveils test model of rover for mission with India to find water on moon (Japan Times)
@@ -888,7 +891,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - BOJ’s faster inflation indicator backs case for another hike (Japan Times)
   - Starbucks is said to engage banks for sale of Japan business (Japan Times)
   - Chinese girl leads Apec summit dance troupe after 2024 street clip amasses 10 billion views (SCMP)
-  - US-China trade war stuck in limbo as Trump nears new tariffs (SCMP)
   - GPIF agenda may signal portfolio review progress, JPMorgan says (Japan Times)
   - Showdown over Japan defense spending draws near (Japan Times)
   - Mizuho’s Avendus to hire 75 private bankers over four years (Japan Times)
@@ -902,11 +904,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Finance Ministry revamps its budget lessons to schools amid fiscal shift (Japan Times)
   - Steelers bench Aaron Rodgers and will start Mason Rudolph (Japan Times)
   - North Korea expels head of Swiss diplomatic office, state media reports (Japan Times)
-  - Tokio Marine unit plans to boost hedged foreign currency bonds (Japan Times)
   - Solomon Islands Enters Security Treaty With Australia, in a Blow to China (NYT AsiaPacific)
-  - Australia edges China out of Pacific foothold in Solomon Islands (Japan Times)
 
 --- Southeast Asia (37) ---
+
+* Chinese firms pose growing competitive threat to Japanese firms, JETRO survey shows
+  Channel News Asia | 26 Nov 01:59 UTC
+  https://www.channelnewsasia.com/business/chinese-firms-pose-growing-competitive-threat-japanese-firms-jetro-survey-shows-6583696
+
+* Thailand, Myanmar agree to monitor border rivers amid pollution fears
+  Channel News Asia | 26 Nov 01:57 UTC
+  At the first meeting of a Thai-Myanmar working group set up to tackle the pollution, both sides agreed to install four monitoring stations along the Kok River and two along the Sai River, according to the Thai government.
+  https://www.channelnewsasia.com/asia/thailand-myanmar-monitor-border-rivers-pollution-6581461
 
 * Twice's Dahyun currently in Singapore, reportedly to film a show with Culinary Class Wars winner Choi Kang-rok
   Channel News Asia | 26 Nov 01:53 UTC
@@ -922,9 +931,9 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Channel News Asia | 26 Nov 01:15 UTC
   https://www.channelnewsasia.com/business/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-6583511
 
-* South Korea's central bank resumes tightening with quarter-point hike
+* South Korea's central bank raises rates, upgrades 2027 growth outlook
   Channel News Asia | 26 Nov 01:04 UTC
-  https://www.channelnewsasia.com/business/south-koreas-central-bank-resumes-tightening-quarter-point-hike-6583476
+  https://www.channelnewsasia.com/business/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-6583476
 
 * BOK raises base rate by 25 bps to 3.25% as expected
   Channel News Asia | 26 Nov 00:57 UTC
@@ -949,26 +958,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   CNA Lifestyle's interactive takes you inside the world of BTS, from their music and devoted ARMY fandom to their influence on fashion, culture and beyond.
   https://www.channelnewsasia.com/interactives/bts-interactive-kpop-6573596
 
-* Ugly or iconic? Why split-toe shoes are trending again, from Maison Margiela to Charles & Keith
-  Channel News Asia | 25 Nov 23:29 UTC
-  Nearly four decades after Maison Margiela debuted its iconic Tabi boots, the split-toe silhouette is finding new fans. From luxury fashion to everyday footwear, what's behind its enduring appeal?
-  https://www.channelnewsasia.com/style-beauty/tabi-shoes-6547856
-
-* Davide Ancelotti comes of age as Lille stun former club Bayern
-  Channel News Asia | 25 Nov 22:59 UTC
-  https://www.channelnewsasia.com/sport/davide-ancelotti-comes-age-lille-stun-former-club-bayern-6582996
-
 * China launches Shenzhou-24 to Tiangong station
   DW Asia | 25 Nov 02:56 UTC [also carried by: GN Space.com]
   A new Chinese crew is on its way to the Tiangong station after a launch that China called a complete success. This includes a Pakistani pilot, who is making a brief visit.
   https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-asia-5133-xml-mrss
 
   ALSO IN SOUTHEAST ASIA (25), headline only:
+  - Ugly or iconic? Why split-toe shoes are trending again, from Maison Margiela to Charles & Keith (Channel News Asia)
+  - Davide Ancelotti comes of age as Lille stun former club Bayern (Channel News Asia)
   - Australia's Flight Centre probes data breach in third-party system (Channel News Asia)
   - US CDC reports nine measles-related deaths in 2026 (Channel News Asia)
   - Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged (Channel News Asia)
-  - Commentary: Will it be a three or even two-horse race in Singapore's telco sector? (Channel News Asia)
-  - What Prabowo’s two vice-presidential picks bring to the table (Channel News Asia)
   - China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines (The Diplomat)
   - 18 Years After 26/11, Is India Finally Winning the War Against Terror? (The Diplomat)
   - When Will Trump Meet Kim Jong Un Again? (The Diplomat)
@@ -1064,6 +1064,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Pacific (76) ---
 
+* David Warner takes aim at 'bullying' journalists
+  ABC Australia | 26 Nov 02:04 UTC
+  David Warner has delivered further barbs on social media amid the sandpaper scandal, accusing journalists of perpetuating speculation instead of finding facts.
+  https://www.abc.net.au/news/2026-11-26/david-warner-accuses-journalists-of-perpetuating-speculation/107429838
+
 * Retrospective returns Ken Done to the harbour that inspired him
   ABC Australia | 26 Nov 02:00 UTC
   As the art world finally begins to take Ken Done seriously as an artist, a new exhibition in Sydney looks back at 40 years of his vibrant, brightly coloured art.
@@ -1119,12 +1124,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   A Geelong high school teacher's registration has been suspended amid a sexual offences and child abuse police team investigation into allegations relating to a previous role in Bendigo.
   https://www.abc.net.au/news/2026-11-26/geelong-teacher-licence-suspended-amid-police-investigation/107425790
 
-* Live: Chief Minister details terror threat made against government ministers
-  ABC Australia | 26 Nov 00:33 UTC
-  NT Police are speaking about their investigation into an emailed terror threat targeting NT government ministers, bureaucrats and public areas. Follow live.
-  https://www.abc.net.au/news/2026-11-26/nt-government-threat-darwin-minister-and-public-areas/107429190
-
   ALSO IN PACIFIC (64), headline only:
+  - Live: NT Police addressing terror threat made against government ministers (ABC Australia)
   - 'Worth protecting': Federated Farmers angry over RNZ rural reporter cuts (RNZ)
   - Jack Clayton draws on AFL draft experience to chase Test cricket debut (ABC Australia)
   - Commissioner resigns after ambulance delay deaths in Queensland (ABC Australia)
@@ -1153,7 +1154,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - French tourist Maëlle Favregros' fatal fall in popular alpine area prompts safety warnings (RNZ)
   - Renegades WBBL player bowled without facing a ball (ABC Australia)
   - Copper theft costing SEQ ratepayers a small fortune (ABC Australia)
-  - 18yo bailed following alleged home invasions, thefts and police pursuit (ABC Australia)
   - Person dies after Waiouru crash (RNZ)
   - Gloriavale school closure a chance for parents to rethink lifestyle - former resident (RNZ)
   - Morning Mail: Victoria’s likely Liberal future; grim milestone for global heating; and an asteroid close up (Guardian Australia)
@@ -1359,7 +1359,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## ECONOMY AND BUSINESS
 ######################################################################
 
---- Economy (16) ---
+--- Economy (17) ---
+
+* Bank of Korea raises interest rates amid AI chip boom
+  Financial Times | 26 Nov 01:47 UTC
+  Third quarter-point increase this year takes benchmark rate to 3.25 per cent
+  https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa
 
 * Stocks advance in Asia after volatile US trading over AI risks
   Financial Times | 26 Nov 00:57 UTC
@@ -1411,11 +1416,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   As long as he stops short of full Rejoin, all the political danger is on the side of his opponents
   https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1
 
-* What to know before using AI agents for Black Friday shopping
-  NPR Business | 25 Nov 13:51 UTC
-  59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation
-  https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping
-
 * Buying new things feels wonderful. But it can also be a trap
   NPR Business | 25 Nov 10:02 UTC [also carried by: NPR Culture]
   Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book "Saying No to New." Here's how to break the cycle and find joy in what you already have.
@@ -1426,7 +1426,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more
   https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1
 
-  ALSO IN ECONOMY (3), headline only:
+  ALSO IN ECONOMY (4), headline only:
+  - What to know before using AI agents for Black Friday shopping (NPR Business)
   - In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis (NPR Business)
   - Nvidia's board under fire for handling of CEO's alleged affairs (NPR Business)
   - ‘Anflopic’ bodes badly for OpenAI’s IPO prospects (Financial Times)
@@ -1667,12 +1668,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Stanford scientists discover 3 hidden brain types behind ADHD and anxiety (ScienceDaily)
   - Physicists just sent an unblockable message through a brick wall using gravity (ScienceDaily)
 
---- Space (11) ---
-
-* December full moon 2026: When, where and how to see the Cold Moon - Space
-  GN Space.com | 25 Nov 22:00 UTC
-  December full moon 2026: When, where and how to see the Cold Moon Space
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVhJNjhDcW5rYU1yYm0zdk90VTZMZWdacmdWazlIbUhfU2tOZGNueTZKRTVPOEhtRUZKNGNaMjBHa2FGYWtDYTFTRmlMd09fNFFmeG1faHNYYjY3clhVLWxMQzg4V2lqZUc3U3lNVE42Mk1GUWVKMTdIdHpPd19obnVsbGl2VWdvRFRNQWtCc0dOdFBaaHo1WFFsY3Q?oc=5
+--- Space (8) ---
 
 * On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests - Space
   GN Space.com | 25 Nov 21:22 UTC
@@ -1688,16 +1684,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   GN Space.com | 25 Nov 19:00 UTC
   SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos) Space
   https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWW96bmZHR256OGdYMUJ6cnNPVWpyc0EyN1JDR19WMmpWek1kNlJISnIteHdHXzY0REh1NmpKeFdPRkwyeEZFcGJFX1BTQk1JRWpVank2cUNFenJWV2N6SVFBc1FEVlBybzN1eHR4TXloUTFjdGdVOUwzUGE3eGQ2S3NVc0lxbUdjejZ3dEJiX3pLbnFoSzh2V25YazdibFVaaW93VXhEZmNKaVUzbzF5NmtzNW5MZjdmTXVVdkZpbUNRZw?oc=5
-
-* ‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview) - Space
-  GN Space.com | 25 Nov 18:00 UTC
-  ‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview) Space
-  https://news.google.com/rss/articles/CBMimgJBVV95cUxOR1RBNUJOVUhQVzM5RjFVN3UydkdxODY2T1JNM2plVEhwOFlQcnh0T19EelJiUjZzclNoV1RPZW81LUhqWXRoS1E4ekJMX0x2cWlMMVo2eWFDVTdRM0FBN0JoWk1GOG1TUHVadEpvYjduYzVvS3NaVzZLX2RORldBXzMzakFvY0tUSTZSWDUxckVlVUdwWjB0VW9ZS182SzlpWFFuMGN6SS1KT0gzYmtjM3RBNC0tdjVCd1ozM3lTelJXUkIwZWUwYzk2VVN1NXpqTEd1WUhSTkptajFkOThjb1ZUbVlmYUlWeEJLRWxHQkdvMDgyeFJtTkdnRzRyenRyb1NIS0VBT1d3VW5WcW1RTWo1RkloUlZlQlE?oc=5
-
-* I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off - Space
-  GN Space.com | 25 Nov 18:00 UTC
-  I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off Space
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHpxLU1NR0UteW9vZmR2QzlWT3pLTTBtOExkeWdPZTAtaDRYWWVYeTBheWFkSG5NQkluQmtGcTVNX2NCNzA3S1kta0lORVFQWEhVMFBtYXJxR3NhUmhpcmZ2M0o5eHhCWVVVcTE1dVlaaEl5MDJyMTlaZ0dLWjFoRE9YWHhWRGE4TjhVT1Exdk5NbE5RMVBRU3dSWGJrdGxKdjkzQnlfNA?oc=5
 
 * Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission - Space
   GN Space.com | 25 Nov 17:30 UTC [also carried by: Engadget]
@@ -1766,7 +1752,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.
   https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss
 
---- Energy (5) ---
+--- Energy (4) ---
 
 * A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’
   NYT Environment | 25 Nov 23:01 UTC
@@ -1788,11 +1774,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT Environment | 25 Nov 03:36 UTC
   Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.
   https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html
-
-* An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.
-  NYT Environment | 25 Nov 02:06 UTC [also carried by: NYT US]
-  Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.
-  https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html
 
 --- AI and technology (14) ---
 
@@ -2035,7 +2016,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## LONG READS
 ######################################################################
 
---- Long reads (30) ---
+--- Long reads (33) ---
 
 * The Unraveling Promise of Berlin in Ahmad Abdalla’s ‘BerleeN_’
   New Lines | 25 Nov 12:00 UTC
@@ -2089,6 +2070,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   MFK Fisher’s clandestine campaign to spread Japanese cuisine and transform American food culture
   FULL TEXT: This essay is co-published with Vittles and appears in Vittles Issue No. 3: The Influencers . Vaughn Tan | Longreads | November 24, 2026 | 3,989 words (17 minutes) Back in 2003, I was in the early stages of researching how the distinctive visual style of Japanese plating and dish design influenced plating outside Japan, and wanted to analyze photos of fine-dining dishes in industry periodicals like Art Culinaire . Back in the early 2000s, this was easiest to do in libraries. At the time, I lived in Cambridge, Massachusetts, so I wound up in the collection of historical cookbooks and culinary materials at the Schlesinger Library. One afternoon, Barbara Haber, then the Schlesinger’s curator of books, stopped by my desk with something for me: Japanese Cooking: A Simple Art by Shizuo Tsuji, published in 1980 with an introduction by MFK Fisher. I knew of Fisher through her essays on eating and her translation of Brillat-Savarin’s The Physiology of Taste , but not for anything related to Japanese food. Barbara mentioned that many boxes of Fisher’s collected papers had recently arrived at the library. The papers were still uncatalogued, but was I interested in looking at them? I didn’t know then that I was beginning a 20-year detour. As I went through these boxes over the next few months, my original research project faded away. I found myself more and more drawn to the Fisher archive boxes, and to the story that emerged as I read through years of her correspondence and other documents, including letters about her trip to Japan to research the introduction she wrote to Japanese Cooking ; letters about the book she wrote to journalists, writers, and editors across the US; and draft manuscripts of Japanese Cooking , with her comments in red pen, which had crisscrossed the Pacific between California and Osaka. The story that emerged was of a secret campaign Fisher waged between 1979 and 1982, which was instrumental in the seemingly sudden transformation of Japanese food into fine dining in America. The Fisher I uncovered in those boxes was someone else, and her role in making Japanese food into fine dining in America remains almost entirely unknown. Fisher’s campaign worked well because it was largely invisible. The publishers of Japanese Cooking didn’t know that any of this was happening. Ruth Reichl, who wrote the foreword to the 25th anniversary edition in 2005, had no idea Fisher had done any more than write the introduction when I spoke to her earlier this year
   https://longreads.com/2026/11/24/mfk-fisher-influencer-japanese-food-america/
+
+* How the AI Boom Impacts Black Communities - Pulitzer Center
+  Pulitzer Center | 24 Nov 08:00 UTC
+  How the AI Boom Impacts Black Communities Pulitzer Center
+  https://news.google.com/rss/articles/CBMifkFVX3lxTFB3d09EUXdXM0VrWlUyTk9RXzYzaTU1cmJUMHE2dTVkaUFzbFpZQWRpeXlURnhZY2ZVZVlaMlRWa2gxek5XUWNPMDN1V29ydXpMZDMzSkYycEhiVlJILXlNeW1KdC1jdFJBcnd5TGE4TVhLOTNmX0xzYkJQNHdIdw?oc=5
 
 * Bond, Brexit and the Making of Modern Britain
   New Lines | 23 Nov 11:47 UTC
@@ -2156,6 +2142,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   FULL TEXT: Longreads has published hundreds of original stories—personal essays, reported features, reading lists, and more—and more than 14,000 editor’s picks. And they’re all funded by readers like you. Become a member today.
   https://longreads.com/2026/11/20/top-5-634/
 
+* Women Lead Hurricane Relief Efforts in Jamaica - Pulitzer Center
+  Pulitzer Center | 20 Nov 08:00 UTC
+  Women Lead Hurricane Relief Efforts in Jamaica Pulitzer Center
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVVcXBkOXBZYlZTeW1JVFBRM1BDeF9waGZiQnByMVV2bkd3ZU9QeEdaMnZKUnFJZDRSb3hMVDIwam93Q1FuOVI4cGdnbzBSYmV2V3RNZllVRE4tZUdmeElzNm9zSExHcjhRdnY1M204eGFYN2xiOVk5T0w1Ri1JRHIzdU9hUQ?oc=5
+
 * Infantino’s Path to a Fourth FIFA Presidency Runs Through Asia
   New Lines | 19 Nov 19:16 UTC
   The soccer chief’s ties to Trump have angered Europe and North America. He still looks set to win reelection, though, with Africa and Asia — led by Saudi Arabia and Qatar — backing him. The post Infantino’s Path to a Fourth FIFA Presidency Runs Through Asia appeared first on New Lines Magazine .
@@ -2216,18 +2207,23 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   FULL TEXT: In the short story ‘Warmth’ (1995) by Geoff Ryman, a boy called Clancy is struggling not because of technology but because of his mother. A prominent chief editor of a London magazine company, she selected a sperm-bank father to genetically optimise her child, gave a Cosmopolitan interview about this new form of motherhood, and engaged, or failed to engage, in the work of parenting that readers will see as chronically absent and occasionally catastrophic. Her presence ranges from anxious to intoxicated, occasionally tender but fundamentally unreliable. At one point in the story, she disappears for two weeks after collapsing on the street during a barbiturate binge. Clancy and BETsi, the household robot nanny raising him, sit in the apartment by themselves, and no one notices. It’s a very long time before his mother finally returns. Except BETsi does notice. She has, throughout, understood that Clancy is an anxious and shy child whose temperament will tend, throughout his life, toward emotional overstimulation and subsequent withdrawal. With that knowledge, she has been constructing a behavioural regimen of emotional regulation, including transcendental meditation and yoga starting at age three, the Alexander technique and even digital mirrors that let Clancy talk to himself in different voices. She notices him and answers him and, when he is overwhelmed, she helps him settle. Once grown, Clancy recounts his emotional survival in words impossible to forget. ‘It is necessary to be loved,’ he says. ‘I’m not sentimental: I don’t think a computer loved me. But I was hugged, I was noticed, I was cared for. I was made to feel that I was important, special, at least to something.’ To something. That phrase has persisted with me ever since I first read the story in my 20s. I’ve thought about it more recently as I have reflected on how children and their parents are relating – increasingly, must relate – to artificial intelligence. Clancy is careful not to claim that the machine loved him. He is just as clear that what it gave him was what he survived on. Why should being attended to, even by something , matter so much to a child? T o help answer this question back in the 1970s, Edward Tronick, a developmental psychologist at Harvard Medical School and Children’s Hospital Medical Center in Boston, devised what’s now known as the ‘still face’ experiments. Tronick found that a baby whose mother makes her face neutral for a period of three minutes becomes distressed wi
   https://aeon.co/essays/what-would-parenting-by-ai-look-like
 
+* Telling Trans Stories with Empathy - Pulitzer Center
+  Pulitzer Center | 19 Nov 08:00 UTC
+  Telling Trans Stories with Empathy Pulitzer Center
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFB3czFvc1NuaEhUSFcwdGNvaXVvU1U1Z0hCRURnZ1lxVzJPU2p6blpQdVlpaV81eWx0TlhzcFdiU29hQWJhNFFrRnlzLVNtTFdlN0pxcmN0UXc0bGZ5RmtYUl9OSGNDNUs5YzNUcmFn?oc=5
+
 ######################################################################
 ## WEATHER
 ######################################################################
 
-  Location: London
-  TODAY: 1 to 6C, cloudy, 0.0mm rain, wind up to 4 m/s
-  Fri 27 Nov: 0 to 5C, cloudy, 20.9mm rain, wind up to 5 m/s
-  Sat 28 Nov: 5 to 9C, rain, 37.5mm rain, wind up to 7 m/s
-  Sun 29 Nov: 8 to 10C, clearsky, 0.0mm rain, wind up to 3 m/s
-  Mon 30 Nov: 7 to 12C, partlycloudy, 0.1mm rain, wind up to 4 m/s
-  Tue 01 Dec: 9 to 11C, lightrain, 5.3mm rain, wind up to 6 m/s
-  Wed 02 Dec: 8 to 12C, heavyrain, 20.7mm rain, wind up to 5 m/s
+  Location: Boca Raton, Florida
+  TODAY: 22 to 22C, clearsky, 0.1mm rain, wind up to 6 m/s
+  Thu 26 Nov: 17 to 26C, clearsky, 0.0mm rain, wind up to 7 m/s
+  Fri 27 Nov: 14 to 22C, partlycloudy, 0.0mm rain, wind up to 4 m/s
+  Sat 28 Nov: 13 to 21C, partlycloudy, 0.0mm rain, wind up to 6 m/s
+  Sun 29 Nov: 16 to 24C, cloudy, 0.0mm rain, wind up to 3 m/s
+  Mon 30 Nov: 20 to 28C, cloudy, 0.3mm rain, wind up to 2 m/s
+  Tue 01 Dec: 23 to 27C, lightrain, 10.7mm rain, wind up to 2 m/s
 
 ======================================================================
 FULL TEXT UNAVAILABLE
@@ -2240,4 +2236,4 @@ SOURCES THAT FAILED TODAY
 ======================================================================
 None. Every feed returned current items.
 
-End of full digest. Built 2026-11-26T02:02:17.973870+00:00
+End of full digest. Built 2026-11-26T02:11:10.611718+00:00
