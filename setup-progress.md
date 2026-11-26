@@ -7,7 +7,7 @@ is empty, setup is not complete: resume at the first empty box.
 - [x] 2. The ten topics
 - [x] 3. Watchlist
 - [x] 4. Sources, tested through the news build
-- [ ] 5. Format: length, tone, weather place, voice, time, show name
+- [x] 5. Format: length, tone, weather place, voice, time, show name
 - [ ] 6. First episode published and the podcast address confirmed live
 - [ ] 7. Playing on their phone; first feedback applied
 - [ ] 8. Daily run, two backup checks and the weekly review scheduled

@@ -1,20 +1,20 @@
 {
-  "show_title": "Morning Briefing",
+  "show_title": "Test Podcast 2",
   "show_description": "A personal daily news briefing, read aloud.",
-  "timezone": "Europe/London",
+  "timezone": "America/New_York",
   "ready_by": "06:45",
   "days": "daily",
 
   "voice": "bf_isabella",
   "language": "en-gb",
   "speed": 0.9,
-  "pronunciations": {},
+  "pronunciations": {"Boca Raton": "Boka Ra-tone"},
 
   "weather": {
     "enabled": true,
-    "place": "London",
-    "lat": 51.5074,
-    "lon": -0.1278
+    "place": "Boca Raton, Florida",
+    "lat": 26.3683,
+    "lon": -80.1289
   },
 
   "words": { "target": 1150, "min": 1000, "max": 1250 },
